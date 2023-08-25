@@ -1,3 +1,4 @@
+'use strict'
 const celsius = +prompt("Syötä celsius asteet: ");
 const fahr = (celsius * 9) / 5 + 32;
 const kelvin = celsius + 273.15;

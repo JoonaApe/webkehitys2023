@@ -1,3 +1,4 @@
+'use strict'
 console.log("terveterve");
 const x1 = +prompt("Anna koordinaatti x 1: ");
 const y1 = +prompt("Anna koordinaatti wa: ");

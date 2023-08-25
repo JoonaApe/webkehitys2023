@@ -1,3 +1,4 @@
+'use strict'
 const enter = +prompt("Anna positiivinen luku.");
 let sum = 0;
 

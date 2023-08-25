@@ -1,3 +1,4 @@
+'use strict'
 const score = +prompt("Anna pisteet: ");
 
 if (score <= 39 && score >= 0) {
